@@ -8,7 +8,7 @@ Integra **OpenStack Keystone**, **INDIGO IAM**, **XOMS** y **JumpServer** para c
 - Ciclo de vida centralizado (SCIM) para Usuarios, NPAs y HPAs
 - PAM con JIT, grabación de sesión y rotación de credenciales
 - Orquestación de políticas cross-cloud (OpenStack, Azure, AWS)
-- Auditabilidad total y alineación con **DORA / ENS / ISO 27001 / NIST 800-207**
+- Alineación con **DORA / ENS / ISO 27001 / NIST 800-207 / NIST CSF 2.0 / CIS v8 / PCI DSS 4.0 / SOC 2 / GDPR**
 
 ## 🧩 Componentes
 - **INDIGO IAM** — Federación, SSO, MFA
@@ -26,7 +26,7 @@ Integra **OpenStack Keystone**, **INDIGO IAM**, **XOMS** y **JumpServer** para c
 ## 📚 Documentación
 Ver `docs/`:
 - `architecture/` — diagramas base e integraciones cloud
-- `standards/` — mapeo DORA / ENS / ISO 27001 / NIST 800-207
+- `standards/` — DORA / ENS / ISO 27001 / NIST 800-207 / NIST CSF 2.0 / CIS v8 / PCI DSS 4.0 / SOC 2 / GDPR
 - `governance/` — framework de seguridad, riesgo y roles
 
 ## 🤝 Contribuciones

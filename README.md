@@ -8,7 +8,7 @@ It integrates **OpenStack Keystone**, **INDIGO IAM**, **XOMS** and **JumpServer*
 - Centralized identity lifecycle (SCIM) for Users, NPAs & HPAs
 - PAM with JIT, session recording and credential rotation
 - Cross-cloud policy orchestration (OpenStack, Azure, AWS)
-- Full auditability and alignment with **DORA / ENS / ISO 27001 / NIST 800-207**
+- Full auditability and alignment with **DORA / ENS / ISO 27001 / NIST 800-207 / NIST CSF 2.0 / CIS v8 / PCI DSS 4.0 / SOC 2 / GDPR**
 
 ## 🧩 Core Components
 - **INDIGO IAM** — Federation, SSO, MFA
@@ -26,7 +26,7 @@ It integrates **OpenStack Keystone**, **INDIGO IAM**, **XOMS** and **JumpServer*
 ## 📚 Documentation
 See `docs/`:
 - `architecture/` — core diagrams & cloud integrations
-- `standards/` — DORA / ENS / ISO 27001 / NIST 800-207 mappings
+- `standards/` — DORA / ENS / ISO 27001 / NIST 800-207 / NIST CSF 2.0 / CIS v8 / PCI DSS 4.0 / SOC 2 / GDPR
 - `governance/` — security framework, risk & roles
 
 ## 🤝 Contributing
@@ -35,5 +35,3 @@ We welcome issues, discussions and PRs. Please read `CONTRIBUTING.md` and `CODE_
 ---
 © 2025 Baltasar Collantes Giner — AEGIS Technical Owner / IAM–PAM Security Architect · baltasar.collantesginer@gmx.es · November 2025
 Licensed under the Apache License 2.0. See `LICENSE`.
-# AEGIS
-# AEGIS

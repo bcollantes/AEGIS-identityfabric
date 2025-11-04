@@ -1,0 +1,5 @@
+# Azure Integration
+
+```
+[ASCII diagram]
+```
