@@ -1,0 +1,15 @@
+name: basic-ci
+on:
+  pull_request:
+  push:
+    branches: [ main ]
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Python lint (black check)
+        uses: psf/black@stable
+        with:
+          options: "--check"
+        continue-on-error: true
