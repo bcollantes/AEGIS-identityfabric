@@ -1,0 +1,23 @@
+# General
+.DS_Store
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+*.log
+
+# Python venv
+venv/
+.venv/
+
+# Docs build
+site/
+*.pdf
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Node
+node_modules/
